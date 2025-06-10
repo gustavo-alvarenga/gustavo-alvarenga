@@ -9,10 +9,11 @@ Hello there!
 
 #### Now here's some of my skills:
   
-* **Languages:** Python (Pandas, NumPy, Scikit-Learn, Seaborn), SQL
+* **Core Skills:** SQL, Python (Pandas, NumPy, Scikit-learn, Seaborn)
 
-* **Engineering:** Google Cloud Platform (BigQuery, Cloud Storage, CloudSQL, Compute Engine), Microsoft Fabric (Dataflows)
+* **Data Infrastructure & Pipelines:** Google Cloud Platform (BigQuery, Cloud Storage, CloudSQL, Compute Engine), Microsoft Fabric (Dataflows), Power Automate
 
-* **Machine Learning:** Scikit-learn, GPT
+* **Analytics & Visualization:** Power BI, Tableau
 
-* **Data Visualization:** Power BI, Tableau
+* **Machine Learning & AI:** Scikit-learn, GPT
+
