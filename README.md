@@ -1,16 +1,18 @@
-## Hi there 👋
+Hello there!
 
-<!--
-**gustavo-alvarenga/gustavo-alvarenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Here is some info about me:
 
-Here are some ideas to get you started:
+* I'm Gus Alvarenga
+* I'm a Senior Data Analyst based in Ontario, Canada, currently working in the video games industry
+* I lead the design and automation of data pipelines to support research and reporting, manage end-to-end Power BI dashboards used by internal teams and clients, and translate business needs into scalable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Now here's some of my skills:
+  
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn, Seaborn), SQL
+
+* **Engineering:** Google Cloud Platform (BigQuery, Cloud Storage, CloudSQL, Compute Engine), Microsoft Fabric (Dataflows)
+
+* **Machine Learning:** Scikit-learn, GPT
+
+* **Data Visualization:** Power BI, Tableau
